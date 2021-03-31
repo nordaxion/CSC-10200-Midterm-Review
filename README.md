@@ -5,3 +5,7 @@
 3. Write a function that takes 2 vectors of sorted integers, and merges them into a third sorted vector which you can assume is initially empty. The prototype should look like this:
 Void merge(const vector<int>& V1, const vector<int>& V2, vector<int>& result);
 As an example, if the first two vectors contain [2,4,5,9] and [1,3,7,8,12,15,20] respectively, then the result vector should contain [1 2 3 4 5 7 8 9 12 15 20]. Note: do not use a sort function. You’ll not receive any credit for doing the problem this way.
+
+## Question Overview Video
+
+Check the explanation for each of the questions in [this video](https://youtu.be/gAAMyfHq_88).
